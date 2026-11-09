@@ -3,3 +3,4 @@ we are in feature branch
 third commit
 fourth commit
 fifth commit
+sixth commit for rebase
